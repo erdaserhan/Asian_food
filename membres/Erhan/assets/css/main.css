@@ -72,7 +72,7 @@ h4,
 h5,
 h6 {
   color: var(--heading-color);
-  font-family: var(--heading-font);
+  /*font-family: var(--heading-font);*/
 }
 
 /*--------------------------------------------------------------
@@ -214,7 +214,7 @@ font-size: 500px;
     list-style: none;
     align-items: center;
     position: relative;
-    right: 180px;
+    /*right: 180px;*/
   }
 
   .navmenu li {
